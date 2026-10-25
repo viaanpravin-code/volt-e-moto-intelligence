@@ -2,7 +2,7 @@
 
 **Your electric ride. Your data. Your VOLT.**
 
-VOLT E-Moto Intelligence is an Android companion app concept for electric motorcycle riders, built with Kotlin and Jetpack Compose.
+VOLT E-Moto Intelligence is an Android (IOS will come later) companion app concept for electric motorcycle riders, built with Kotlin and Jetpack Compose.
 
 > **Status: Early Beta — v0.1.0**
 >
